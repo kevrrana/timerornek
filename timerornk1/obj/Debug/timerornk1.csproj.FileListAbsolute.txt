@@ -1,0 +1,10 @@
+C:\Users\PC0\Desktop\timerornk1\timerornk1\bin\Debug\timerornk1.exe.config
+C:\Users\PC0\Desktop\timerornk1\timerornk1\bin\Debug\timerornk1.exe
+C:\Users\PC0\Desktop\timerornk1\timerornk1\bin\Debug\timerornk1.pdb
+C:\Users\PC0\Desktop\timerornk1\timerornk1\obj\Debug\timerornk1.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\timerornk1\timerornk1\obj\Debug\timerornk1.Form1.resources
+C:\Users\PC0\Desktop\timerornk1\timerornk1\obj\Debug\timerornk1.Properties.Resources.resources
+C:\Users\PC0\Desktop\timerornk1\timerornk1\obj\Debug\timerornk1.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\timerornk1\timerornk1\obj\Debug\timerornk1.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\timerornk1\timerornk1\obj\Debug\timerornk1.exe
+C:\Users\PC0\Desktop\timerornk1\timerornk1\obj\Debug\timerornk1.pdb
